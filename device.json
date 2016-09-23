@@ -1,0 +1,8 @@
+{
+  "org": "xxxx",
+  "domain": "internetofthings.ibmcloud.com",
+  "type": "XXXX-edision-iot",
+  "id": "XXXX-edison-1",
+  "auth-method" : "token",
+  "auth-token" : "XXXXXX"
+}
